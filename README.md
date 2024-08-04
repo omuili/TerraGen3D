@@ -1,5 +1,3 @@
----
-
 # TerraGen3D
 
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/TerraGen3D)
