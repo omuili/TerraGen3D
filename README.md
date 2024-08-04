@@ -1,9 +1,9 @@
 # TerraGen3D
 
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/TerraGen3D)
+![PyPI - Python 3.9](https://img.shields.io/pypi/pyversions/TerraGen3D)
 ![PyPI](https://img.shields.io/pypi/v/TerraGen3D)
 ![PyPI - License](https://img.shields.io/pypi/l/TerraGen3D)
-![Downloads](https://static.pepy.tech/badge/terragen3d)(https://pepy.tech/project/terragen3d)
+[![Downloads](https://static.pepy.tech/badge/terragen3d)](https://pepy.tech/project/terragen3d)
 
 TerraGen3D is an open-source Python library for generating and visualizing 3D terrain models. It provides tools for creating realistic 3D landscapes from various data sources, enabling easy integration and use in geospatial projects.
 
