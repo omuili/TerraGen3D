@@ -53,8 +53,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or inquiries, please contact [Your Name] at [Your Email].
+For any questions or inquiries, please contact Olanrewaju Muili at olanrewaju.muili@gmail.com
 
 ---
-
-This README provides an overview of TerraGen3D, including installation instructions, a quick start guide, links to documentation, contribution guidelines, license information, and contact details. Make sure to replace placeholders like `[Your Name]` and `[Your Email]` with your actual information.
